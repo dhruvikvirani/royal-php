@@ -4,5 +4,5 @@
 
 create book-applied validation.
 
-Symfony CLI command to add a new author
+Laravel CLI command to add a new author
 php artisan add:author
