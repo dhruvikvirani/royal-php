@@ -1,6 +1,8 @@
 1. Run Composer install command 
-2. create database 
-3. run php artisan migrate command
+2. create a database 
+3. run the php artisan migrate command
+
+create book-applied validation.
 
 Symfony CLI command to add a new author
 php artisan add:author
